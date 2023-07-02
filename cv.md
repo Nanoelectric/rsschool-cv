@@ -8,3 +8,10 @@ Work in Sales
 
 ## Skills
 Elementary knowledge of HTML and CSS
+
+## Education
+Ural Federal University, Master degree, 2017
+
+## Languages
+Russian - native
+English - intermediate
