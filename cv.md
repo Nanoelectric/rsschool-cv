@@ -13,5 +13,5 @@ Elementary knowledge of HTML and CSS
 Ural Federal University, Master degree, 2017
 
 ## Languages
-Russian - native
+Russian - native <br>
 English - intermediate
