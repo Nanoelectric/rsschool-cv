@@ -1,0 +1,67 @@
+html {
+    scroll-behavior: smooth; 
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header  {
+    background-color: #faf2e4;
+}
+
+main img {
+    height: 150px;
+    border: none;
+}
+
+footer {
+    background-color: #cfbbaa;
+}
+
+  footer img {
+    height: 30px;
+  }
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    list-style: none;
+}
+
+.nav-list a{
+    text-decoration: none;
+}
+
+.footer_align {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.ava_name {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.photo {
+
+}
+
+.name {
+    text-align: center;
+}
