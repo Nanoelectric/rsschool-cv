@@ -2,7 +2,7 @@
 
 ## Contacts
 * Tel. +7 965 507-47-79
-* vk.com/pavlikchernyshov
+* [VK](https://vk.com/pavlikchernyshov)
 
 ## Information
 I work in sales since 2015. I sell hydraulic equipment for plants and factories in Russia.
@@ -20,7 +20,7 @@ height: 30px;
 }</pre>
 
 ## Projects
-My CV at Github
+[My CV at Github](https://nanoelectric.github.io/rsschool-cv/)
 
 ## Education
 Ural Federal University, Master degree, 2017
